@@ -1,0 +1,9 @@
+.attendance-heading button {
+    background-color: #1e293b;
+    color: white;
+    padding: 3px 8px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-top: 7px;
+}
