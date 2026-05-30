@@ -6,7 +6,7 @@ import Dashboard from "./pages/Dashboard";
 import Employees from "./pages/Employees";
 import Leave from "./pages/Leave";
 import Attendance from "./pages/Attendance";
-import Layout from "./components/Layout/Layout";
+import Layout from "./components/layout/Layout";
 import AddEmployee from "./components/Employees/AddEmployee";
 import ProtectedRoute from "./components/auth/ProtectedRoute";
 
