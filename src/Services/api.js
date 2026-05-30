@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://hrms-backend-pp79.onrender.com"
+  baseURL: "https://hrms-backend-pp79.onrender.com/api"
 });
 
 // Attach token to every request
